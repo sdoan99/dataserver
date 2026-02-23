@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd:*)",
+      "Bash(cd /c/Users/snd52/CascadeProjects/dataserver && git push -u origin master 2>&1)"
+    ]
+  }
+}
